@@ -6,3 +6,4 @@ We are currently working on the testing of the following functions:
 
 `New Function`
 
+We are using [CMake](https://cmake.org/) to test the functionality of the `New Function`.
